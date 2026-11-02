@@ -39,7 +39,7 @@ ci = [
     "beautifulsoup4",
     "lxml",
     "pyarrow==26.0.0",
-    "statsmodels>=0.14,<0.15",
+    "statsmodels>=0.14,<0.16",
     "pandas-market-calendars==5.2.2",
     "opencv-python-headless>=4.8",
     "pillow>=10.0",
